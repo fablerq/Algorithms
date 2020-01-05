@@ -17,13 +17,13 @@ The entire project is divided into 3 parts
 * LeetCode problems
 
 
-##Algorithms
+## Algorithms
 
 - [Sorting](./Algorithms#Sorting)
 
-##Data Structures
+## Data Structures
 
-##Design Patterns
+## Design Patterns
 
 
 ##Leetcode
