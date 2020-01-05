@@ -19,6 +19,8 @@ The entire project is divided into 3 parts
 
 ##Algorithms
 
+- [Sorting](./Algorithms#Sorting)
+
 ##Data Structures
 
 ##Design Patterns
