@@ -13,4 +13,19 @@ The entire project is divided into 3 parts
 
 * Algorithms
 * Data Structures
+* Design Patterns
 * LeetCode problems
+
+
+##Algorithms
+
+##Data Structures
+
+##Design Patterns
+
+
+##Leetcode
+
+| #  | Title           |  Level          |  Java Solution     | Python Solution   |  Go Solution    | Topics
+-----|---------------- |:---------------:| ------------------ | ----------------- |:---------------:|:--------------
+| 1 |[Two sum](https://leetcode.com/problems/two-sum/)| Easy | [Java](./LeetCode/Other/Task1/Solution.java) | [Python](./LeetCode/Other/Task1/Solution.py) | [Go](./LeetCode/Other/Task1/Solution.go) | Arrays, Hash Table |
