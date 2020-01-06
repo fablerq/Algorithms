@@ -9,7 +9,7 @@ Mainly implemented in languages such as Java/Python/Golang.
 --------------------------------------------------------------
 
 ### Project Details
-The entire project is divided into 3 parts
+The entire project is divided into 4 parts
 
 * Algorithms
 * Data Structures
@@ -20,13 +20,14 @@ The entire project is divided into 3 parts
 ## Algorithms
 
 - [Sorting](./Algorithms#Sorting)
+- [Searching](./Algorithms#Searching)
 
 ## Data Structures
 
 ## Design Patterns
 
 
-##Leetcode
+## Leetcode
 
 | #  | Title           |  Level          |  Java Solution     | Python Solution   |  Go Solution    | Topics
 -----|---------------- |:---------------:| ------------------ | ----------------- |:---------------:|:--------------
