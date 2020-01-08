@@ -9,14 +9,21 @@ class ShellSort {
     }
 
     public static int[] sort(int[] data) {
-        int n = data.length;
-        for (int i = 1; i < n; i++)
-            for (int j = i; j > 0; j--)
-                if (data[j] < data[j-1]) {
+        int n = data.length, h = 1;
+        while (h < n / 3) h = 3 * h + 1;
+        while(h > 0)
+        {
+            for (int i = h; i < n; i++)
+            {
+                for (int j = i; j >= h && data[j - h] > data[j]; j -= h)
+                {
                     int temp = data[j];
-                    data[j] = data[j-1];
-                    data[j-1] = temp;
+                    data[j] = data[j - h];
+                    data[j - h] = temp;
                 }
+            }
+            h = h / 3;
+        }
         return data;
     }
 }

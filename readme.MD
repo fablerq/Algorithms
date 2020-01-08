@@ -21,6 +21,9 @@ The entire project is divided into 4 parts
 
 - [Sorting](./Algorithms#Sorting)
 - [Searching](./Algorithms#Searching)
+- [Shuffling](./Algorithms#Shuffling)
+- [Geometry](./Algorithms#Geometry)
+
 
 ## Data Structures
 
