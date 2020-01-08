@@ -19,13 +19,15 @@ The entire project is divided into 4 parts
 
 ## Algorithms
 
-- [Sorting](./Algorithms#Sorting)
-- [Searching](./Algorithms#Searching)
-- [Shuffling](./Algorithms#Shuffling)
-- [Geometry](./Algorithms#Geometry)
+- [Sorting](./Algorithms/Sorting)
+- [Searching](./Algorithms/Searching)
+- [Shuffling](./Algorithms/Shuffling)
+- [Geometry](./Algorithms/Geometry)
 
 
 ## Data Structures
+
+- [Stack](./Data%20Structures/Stack)
 
 ## Design Patterns
 
